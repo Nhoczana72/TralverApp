@@ -3,6 +3,7 @@ import {
   heightPercentageToDP as hp,
   widthPercentageToDP as wp,
 } from 'react-native-responsive-screen';
+import {Font} from '~assets/fonts';
 
 export const styles = StyleSheet.create({
   container: {
@@ -15,12 +16,14 @@ export const styles = StyleSheet.create({
   image: {
     width: '100%',
     height: '100%',
+    justifyContent: 'space-between',
   },
   tx_title: {
     color: 'white',
-    fontSize: wp(10),
+    fontSize: wp(17),
     fontWeight: '700',
     marginTop: hp(1),
+    fontFamily: Font.North_Land,
   },
   tx_title1: {
     color: 'white',
@@ -31,6 +34,9 @@ export const styles = StyleSheet.create({
     color: 'white',
     fontSize: wp(3.5),
     fontWeight: '500',
+    marginLeft: wp(1),
+    borderRightWidth: 1,
+    borderRightColor: 'white',
   },
   tx_input: {
     color: 'white',
@@ -44,6 +50,7 @@ export const styles = StyleSheet.create({
     fontSize: wp(3),
     fontWeight: '300',
     marginTop: hp(1),
+    marginLeft: wp(5),
   },
   tx_otp_box: {
     borderWidth: 0,

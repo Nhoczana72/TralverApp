@@ -4,6 +4,7 @@ import {
   widthPercentageToDP as wp,
 } from 'react-native-responsive-screen';
 import {Colors} from '~assets/color';
+import {Font} from '~assets/fonts';
 
 export const styles = StyleSheet.create({
   container: {
@@ -14,9 +15,10 @@ export const styles = StyleSheet.create({
   },
   tx_title: {
     color: 'white',
-    fontSize: wp(5),
+    fontSize: wp(9),
     fontWeight: '700',
     marginVertical: hp(1),
+    fontFamily: Font.North_Land,
   },
   tx_title1: {
     color: 'white',

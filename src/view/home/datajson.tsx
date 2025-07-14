@@ -23,6 +23,154 @@ export const listAddress = [
     longitude: 107.038,
     rating: 4.5,
     latitude: 20.9101,
+    mon_an_dac_san: [
+      {
+        id: 1,
+        ten: 'Xôi trắng chả mực',
+        anh: 'https://media.vietravel.com/images/Content/mon-an-dac-san-ha-long-01.jpeg',
+        mota: '   Nhắc đến món ăn đặc sản Hạ Long, không thể bỏ qua xôi trắng chả mực – sự kết hợp hoàn hảo giữa hương vị truyền thống và nguyên liệu đặc trưng vùng biển. Chả mực được làm từ những con mực tươi ngon nhất, xay nhuyễn, nêm nếm gia vị, tạo hình và chiên vàng. Khi ăn kèm xôi nếp dẻo thơm, từng miếng chả mực dậy vị ngọt tự nhiên, độ dai đặc trưng khiến ai thưởng thức cũng nhớ mãi. Món ăn này không chỉ là sự lựa chọn phổ biến trong các bữa ăn gia đình mà còn được nhiều du khách tìm kiếm khi tham gia tour du lịch Hạ Long',
+        goiyDiaDiem:
+          'Quán ăn Quang Phong – Lô C112A Phố Cổ, TP. Hạ Long, Quảng Ninh/ Giá: 35.000 – 50.000 VNĐ/phần.',
+      },
+      {
+        id: 2,
+        ten: 'Sam biển',
+        anh: 'https://media.vietravel.com/images/Content/mon-an-dac-san-ha-long-02.jpg',
+        mota: '   Sam biển là một loại hải sản độc đáo, thường sống ở các vùng nước ven biển, và được xem là đặc sản không thể thiếu khi nhắc đến ẩm thực Hạ Long. Từ nguyên liệu này, người dân địa phương sáng tạo ra rất nhiều món ăn hấp dẫn như gỏi sam, sam xào chua ngọt, sụn sam chiên hay miến xào sam. Điểm đặc biệt là thịt sam vừa dai lại ngọt, tạo nên hương vị lạ miệng, kích thích vị giác của bất kỳ ai. Sam biển không chỉ giàu dinh dưỡng mà còn phù hợp với mọi đối tượng thực khách.',
+        goiyDiaDiem:
+          'Nhà hàng Hùng Mít - Bạch Đằng, Hạ Long, Quảng Ninh/ Giá: 50.000 – 75.000 VNĐ/con',
+      },
+      {
+        id: 3,
+        ten: 'Bún bề bề (tôm tít)',
+        anh: 'https://media.vietravel.com/images/Content/mon-an-dac-san-ha-long-03.jpeg',
+        mota: '   Không chỉ là món ăn quen thuộc với người dân địa phương, bún bề bề còn chinh phục nhiều du khách nhờ hương vị đặc trưng của món ăn đặc sản Hạ Long. Phần nước dùng được hầm từ xương cá và hải sản tươi nên mang vị ngọt thanh, đậm đà. Những con bề bề (tôm tít) tươi ngon, chắc thịt được bóc vỏ kỹ càng, kết hợp cùng sợi bún mềm dai tạo nên một bát bún tròn vị. ',
+        goiyDiaDiem:
+          'Quán bún bề bề Làng Chài – Số 1 Lê Thánh Tông, Hồng Gai, Hạ Long, Quảng Ninh/ Giá: 20.000 – 50.000 VNĐ/tô',
+      },
+      {
+        id: 4,
+        ten: 'Cháo hàu sữa',
+        anh: 'https://media.vietravel.com/images/Content/mon-an-dac-san-ha-long-04.jpg',
+        mota: '   Một trong những món ăn bổ dưỡng và nổi bật trong danh sách món ăn đặc sản Hạ Long chính là cháo hàu sữa. Hàu được chọn làm nguyên liệu đều là loại tươi sống, béo ngậy, giàu dinh dưỡng như protein, vitamin và khoáng chất. Cháo có vị ngọt thanh nhờ nước dùng từ xương và hàu, được nấu chín kỹ cùng gạo dẻo, tạo nên sự hòa quyện hoàn hảo giữa các nguyên liệu. Món ăn này không chỉ thơm ngon mà còn phù hợp cho mọi độ tuổi, đặc biệt tốt cho sức khỏe.',
+        goiyDiaDiem:
+          'Nhà hàng Khánh Ly – Đường Hùng Vương, Ka Long, Móng Cái, Quảng Ninh/ Giá: 30.000 – 50.000 VNĐ/tô',
+      },
+      {
+        id: 5,
+        ten: 'Bánh gật gù',
+        anh: 'https://media.vietravel.com/images/Content/mon-an-dac-san-ha-long-96.jpeg',
+        mota: '   Bánh gật gù – một cái tên gây tò mò nhưng lại là món ăn truyền thống mang đậm bản sắc vùng biển Hạ Long, trửo thành món ăn đặc sản Hạ Long nổi tiếng. Bánh được làm từ bột gạo, tráng mỏng, cuộn tròn, tạo nên độ dai mềm và màu trắng tinh khiết. Khi ăn, bánh được chấm cùng nước mỡ gà pha chế cầu kỳ, thêm chút hành phi thơm lừng. Đặc biệt, bánh gật gù rất dễ ăn, phù hợp với cả bữa sáng lẫn bữa nhẹ trong ngày. Đây chắc chắn là trải nghiệm ẩm thực bạn không thể bỏ lỡ khi tham gia tour du lịch Hạ Long.',
+        goiyDiaDiem:
+          'Chợ đêm Hạ Long – Đại lộ Hạ Long Marine, Bãi Cháy, TP. Hạ Long/ Giá: 15.000 – 25.000 VNĐ/phần.',
+      },
+      {
+        id: 6,
+        ten: 'Sá sùng',
+        anh: 'https://media.vietravel.com/images/Content/mon-an-dac-san-ha-long-07.jpeg',
+        mota: '   Sá sùng không chỉ là loại hải sản quý hiếm tại Hạ Long mà còn là món ăn có giá trị dinh dưỡng cao. Sá sùng thường được dùng để làm ngọt nước phở hoặc chế biến thành các món ngon như xào cần tỏi, rang muối, nấu cháo. Ngoài ra, sá sùng khô còn được nhiều người mua về làm quà vì dễ bảo quản và chế biến. Hương vị thơm ngon, béo bùi của sá sùng không chỉ làm hài lòng du khách mà còn giúp bạn khám phá thêm sự độc đáo của ẩm thực Hạ Long.',
+        goiyDiaDiem:
+          'Nhà hàng Hương Duyên Hòn Gai – Số 66 Trần Hưng Đạo, p. Cao Thắng, Tp Hạ Long, Quảng Ninh/ Giá: 120.000 – 350.000 VNĐ/phần.',
+      },
+      {
+        id: 7,
+        ten: 'Ngán',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2022/06/dac-san-ha-long-10.jpeg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '   Ngán là một loại hải sản giống như ngao nhưng to hơn. Ngán rất khó đánh bắt nên được xếp vào hàng đặc sản Hạ Long.Ngán có thể có thể chế biến thành nhiều món như là nướng, súp, hấp hay xào với mì.',
+        goiyDiaDiem:
+          'Nhà hàng hải sản Thiên Anh – Khu Đô Thị Cái Dăm (Bãi Cháy)/ Giá: 100.000 – 440.000 VNĐ/người',
+      },
+      {
+        id: 8,
+        ten: 'Rượu Nếp Ngâm Hoành Bồ',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2022/06/dac-san-ha-long-10.jpeg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '   Ngán là một loại hải sản giống như ngao nhưng to hơn. Ngán rất khó đánh bắt nên được xếp vào hàng đặc sản Hạ Long.Ngán có thể có thể chế biến thành nhiều món như là nướng, súp, hấp hay xào với mì.',
+        goiyDiaDiem:
+          'Chợ Hạ Long 2 - Số 433 Lê Lợi, Trần Hưng Đạo/ Giá: 75.000 đồng/l - 90.000 đồng/l',
+      },
+    ],
+    dia_diem_noi_tieng: [
+      {
+        id: '1_adress',
+        ten: 'Vịnh Bái Tử Long',
+        anh: 'https://thanhnienmoi.com/upload/images/Vinh-Bai-Tu-Long.jpg',
+        mota: '   Bái Tử Long là một vịnh của Việt Nam, nằm trong vịnh Bắc Bộ, ở vùng Đông Bắc của Việt Nam. Vịnh Bái Tử Long bao gồm một vùng biển của thành phố Hạ Long, thành phố Cẩm Phả và huyện đảo Vân Đồn. Phía Tây Nam giáp Vịnh Hạ Long, phía Đông giáp biển, phía Tây giáp đất liền với thành phố Cẩm Phả và phía đông bắc giáp huyện đảo Cô Tô. Vịnh Bái Tử Long bao gồm hàng trăm hòn đảo lớn nhỏ và trong đó có nhiều đảo lớn và có dân sinh sống.\nTheo thống kê Vịnh Bái Tử Long có hàng trăm hòn đảo núi đã vôi và sa phiến thạch với nhiều địa danh nổi tiếng như: Núi Bài Thơ, Hòn Con Cóc, Hòn Tiên Ông, Hòn Con Rùa, Đầm Oan, Hòn Mặt Quỷ, Hòn Con Cò, Động Thiên Cảnh Sơn, Động Tam Cung, Động Mê Cung…. Hệ thống đảo đó có hòn cao – hòn thấp nhấp nhô trên mặt nước với hàng trăm cây số bờ biển tạo khung cảnh thật hùng vỹ nhưng không kém phần lãng mạn. Với địa thế đó thì Vịnh Bái Tử Long có rất nhiều bãi biển đẹp như: Bãi Con Cò, Bãi Biển Vân Đồn, Bãi Quan Lạn, Bãi Minh Châu, Biển Cô Tô… Tất cả những bãi tắm kể trên đều giữ nguyên dáng vẻ hoang sơ và nét tinh khôi của tạo hóa.',
+      },
+      {
+        id: '2_adress',
+        ten: 'Vịnh Bái Tử Long',
+        anh: 'https://thanhnienmoi.com/upload/images/Vinh-Bai-Tu-Long.jpg',
+        mota: '   Bái Tử Long là một vịnh của Việt Nam, nằm trong vịnh Bắc Bộ, ở vùng Đông Bắc của Việt Nam. Vịnh Bái Tử Long bao gồm một vùng biển của thành phố Hạ Long, thành phố Cẩm Phả và huyện đảo Vân Đồn. Phía Tây Nam giáp Vịnh Hạ Long, phía Đông giáp biển, phía Tây giáp đất liền với thành phố Cẩm Phả và phía đông bắc giáp huyện đảo Cô Tô. Vịnh Bái Tử Long bao gồm hàng trăm hòn đảo lớn nhỏ và trong đó có nhiều đảo lớn và có dân sinh sống.\nTheo thống kê Vịnh Bái Tử Long có hàng trăm hòn đảo núi đã vôi và sa phiến thạch với nhiều địa danh nổi tiếng như: Núi Bài Thơ, Hòn Con Cóc, Hòn Tiên Ông, Hòn Con Rùa, Đầm Oan, Hòn Mặt Quỷ, Hòn Con Cò, Động Thiên Cảnh Sơn, Động Tam Cung, Động Mê Cung…. Hệ thống đảo đó có hòn cao – hòn thấp nhấp nhô trên mặt nước với hàng trăm cây số bờ biển tạo khung cảnh thật hùng vỹ nhưng không kém phần lãng mạn. Với địa thế đó thì Vịnh Bái Tử Long có rất nhiều bãi biển đẹp như: Bãi Con Cò, Bãi Biển Vân Đồn, Bãi Quan Lạn, Bãi Minh Châu, Biển Cô Tô… Tất cả những bãi tắm kể trên đều giữ nguyên dáng vẻ hoang sơ và nét tinh khôi của tạo hóa.',
+      },
+    ],
+    leHoi: [
+      {
+        id: '1_lh',
+        ten: 'Lễ hội Yên Tử ',
+        anh: 'https://cdn-media.sforum.vn/storage/app/media/ctvseo_MH/l%E1%BB%85%20h%E1%BB%99i%20qu%E1%BA%A3ng%20ninh/le-hoi-quang-ninh-1.jpg',
+        mota: '   Yên Tử là trung tâm Phật giáo của nước Đại Việt thuở xưa, đồng thời là nơi phát tích của thiền phái Trúc Lâm. Khi đi du lịch Yên Tử dịp đầu năm, bạn có thể tách mình khỏi thế giới trần tục và thực hiện cuộc hành hương tôn giáo giữa thiên nhiên trong lành, hùng vĩ. Bên cạnh đó, du khách còn có cơ hội chứng kiến, tham gia nhiều hoạt động hấp dẫn như lễ khai ấn “Dấu thiêng Chùa Đồng”, lễ dâng hương cúng Phật, lễ bái Tổ Trúc Lâm… Các hoạt động văn hoá tâm linh độc đáo, mang tính truyền thống tại chùa Yên Tử dịp lễ hội chắc chắn sẽ làm du khách cảm thấy thoải mái và vui vẻ hơn.',
+        thoigian: 'từ ngày 10 tháng Giêng – hết tháng 3 Âm lịch',
+        diaDiem: 'núi Yên Tử, Thượng Yên Công, Uông Bí',
+      },
+      {
+        id: '2_lh',
+        ten: 'Lễ hội đền Cửa Ông',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-3-1536x864.jpeg',
+        mota: '   Đền Cửa Ông là nơi thờ Trần Quốc Tảng – người con thứ 3 của Trần Hưng Đạo cùng nhiều vị tướng nhà Trần khác đã có công đánh đuổi giặc ngoại xâm và trấn ải vùng Đông Bắc. Bên cạnh đó, địa điểm này còn thờ Hoàng Cầu – vị tướng lĩnh người địa phương đã có nhiều công lớn trong việc dẹp giặc, bảo vệ bình yên cho dân làng. Lễ hội đền Cửa Ông được tổ chức nhằm tưởng nhớ công ơn của tướng Trần Quốc Tảng và các vị tướng lĩnh.\nLễ hội được tổ chức linh đình, bao gồm 2 phần: tế lễ và rước kiệu bài vị của tướng Trần Quốc Tảng. Vào mùa lễ hội, đền Cửa Ông thu hút rất nhiều du khách từ khắp nơi đổ về. Vì vậy, bạn có thể du lịch Cẩm Phả dịp đầu năm và kết hợp tham quan đền Cửa Ông để có cơ hội tham gia nhiều hoạt động thú vị tại đây.',
+        thoigian: 'từ mùng 3, 4 tháng Giêng và mùng 3, 4 tháng 8 Âm lịch',
+        diaDiem: 'đền Cửa Ông, phường Cửa Ông, thành phố Cẩm Phả',
+      },
+      {
+        id: '3_lh',
+        ten: 'Lễ hội Carnaval Hạ Long',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-4.jpeg',
+        mota: '   Lễ hội Carnaval Hạ Long được tổ chức lần đầu tiên vào năm 2007. Tính đến nay, lễ hội ở Quảng Ninh này đã trải qua 15 mùa lễ hội. Đây là hành trình rực rỡ sắc màu, hội tụ tinh hoa bản sắc văn hoá địa phương. Chương trình Carnaval Hạ Long có 4 phần bao gồm: khai mạc, chương trình nghệ thuật sân khấu, vũ hội đường phố và bắn pháo hoa.',
+        thoigian: 'cuối tháng 4 hằng năm',
+        diaDiem: 'thành phố Hạ Long, Quảng Ninh',
+      },
+      {
+        id: '4_lh',
+        ten: 'Lễ hội đình Trà Cổ',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-5.jpeg',
+        mota: '   Cách đây gần 600 năm, đình làng Trà Cổ được xây dựng để thờ cúng Thành Hoàng làng. Hằng năm, người dân thường tổ chức lễ hội đình Trà Cổ nhằm tưởng nhớ công ơn của Thành hoàng làng và cầu mong những điều tốt đẹp đến với dân làng. Ngày 25/5, đoàn thuyền rước đi từ Trà Cổ về quê tổ Đồ Sơn. Đến ngày 30/5, thuyền quay về Trà Cổ.\n-Ngày 1/6 bắt đầu lễ hội với lễ rước Vua ra bể hay còn gọi là rước Vua ra miếu. Sau đó, người dân tổ chức các cuộc thi sản phẩm chăn nuôi trồng trọt, trong đó chủ yếu là những chú lợn mà người dân gọi là Ông Voi. Bên cạnh đó, du lịch Trà Cổ vào dịp lễ hội, bạn còn có thể chứng kiến nét độc đáo của hội thi nấu ăn, thi làm cỗ…',
+        thoigian: 'từ 30/5 – 6/6 Âm lịch hàng năm',
+        diaDiem: 'Trà Cổ, Móng Cái',
+      },
+      {
+        id: '5_lh',
+        ten: 'Lễ hội chùa Long Tiên',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-6.jpeg',
+        mota: '   Tuy được xây dựng cách đây không lâu (1941) nhưng chùa Long Tiên dưới chân núi Bài Thơ là ngôi chùa lớn nhất ở thành phố Hạ Long. Lễ hội chùa Long Tiên có ý nghĩa tâm linh sâu sắc với tất cả mọi người, đặc biệt là những tín đồ đạo Phật. Tương tự các lễ hội truyền thống khác, lễ hội ở Quảng Ninh này cũng có 2 phần: phần lễ và phần hội. Tuy nhiên, điểm đặc biệt là các sự kiện được tổ chức liên tục, xuyên suốt từ chùa Long Tiên – đền Đức Ông – đền thờ An Dương Vương – Loong Toòng. Khi tham gia lễ hội Long Tiên, du khách sẽ được hòa mình vào không gian sôi động, rộn ràng; chứng kiến các hoạt động văn hoá độc đáo và hiểu hơn về cuộc sống sinh hoạt văn hoá của người dân nơi đây.',
+        thoigian: 'ngày 24/3 Âm lịch hàng năm.',
+        diaDiem:
+          'chùa Long Tiên ngay dưới chân núi Bài Thơ, thành phố Hạ Long.',
+      },
+      {
+        id: '6_lh',
+        ten: 'Lễ hội đình Quan Lạn',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-7.jpeg',
+        mota: '   Khi du lịch đảo Quan Lạn Quảng Ninh thuộc địa phận huyện Vân Đồn vào tháng 6 Âm lịch, du khách có thể tham gia lễ hội đình Quan Lạn. Lễ hội ở Quảng Ninh này thể hiện tinh thần thượng võ của dân tộc trong thời kỳ chống quân Nguyên Mông. Vào những ngày này, không khí tại bến Đình rất sôi động và tưng bừng, ai ai cũng phấn khởi, vui tươi. Đến đây, bạn có thể chiêm ngưỡng màn đua thuyền rồng náo nhiệt, tìm hiểu văn hoá truyền thống lâu đời…',
+        thoigian:
+          'lễ hội chính tổ chức ngày 18/6 Âm lịch nhưng thường kéo dài từ ngày 10/6 – 19/6.',
+        diaDiem: 'bến Đình, Quan Lạn, Vân Đồn',
+      },
+      {
+        id: '7_lh',
+        ten: 'Lễ hội Thập Cửu Tiên Công',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-8.jpeg',
+        mota: '   Một trong những lễ hội ở Quảng Ninh mà du khách không nên bỏ qua chính là lễ hội Thập Cửu Tiên Công. Lễ hội này được tổ chức nhằm tưởng nhớ công ơn của 19 vị Tiên Công – những người có công đầu tiên quai đê lấn biển lập nên đảo Hà Nam đông vui, trù phú như ngày nay. Ngày mùng 7 tháng Giêng hằng năm, các cụ thượng thọ từ 70 tuổi cùng con cháu ra đền lễ Tiên Công. Trong đó, các cháu đội mâm lễ vật đi trước, các cụ theo sau. Lễ tế kết thúc, lễ động thổ sẽ diễn ra. Sau khi hoàn thành phần lễ, dân làng bắt đầu tổ chức các trò chơi thú vị như chọi gà, chọi trâu, đánh cờ người, hát chèo…',
+        thoigian: 'ngày 5 – 8 tháng Giêng Âm lịch',
+        diaDiem: 'đền Thập Cửu Tiên Công, Cẩm La, Hà Nam, Yên Hưng',
+      },
+      {
+        id: '8_lh',
+        ten: 'Lễ hội Bạch Đằng',
+        anh: 'https://static.vinwonders.com/production/le-hoi-o-quang-ninh-11.jpeg',
+        mota: '   Với người dân đất mỏ, lễ hội Bạch Đằng là sự kiện văn hoá và du lịch có ý nghĩa vô cùng quan trọng. Đây là dịp để người dân bày tỏ lòng tri ân trước những cống hiến của các bậc anh hùng đã hy sinh để bảo vệ độc lập dân tộc. Thông qua đó, lễ hội ở Quảng Ninh này góp phần khẳng định ý nghĩa, giá trị lịch sử của chiến thắng Bạch Đằng. Sau phần nghi lễ, dâng hương tưởng niệm, người dân sẽ thực hiện lễ rước tượng Đức Thánh Trần Hưng Đạo.',
+        thoigian: 'tháng 3 Âm lịch',
+        diaDiem: 'khu di tích lịch sử quốc gia đặc biệt Bạch Đằng, Quảng Yên.',
+      },
+    ],
   },
   {
     id: 2,
@@ -155,8 +303,12 @@ export const listAddress = [
     ten: 'Đà Lạt',
     vi_tri: 'Lâm Đồng',
     hinh_anh:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lTlt66zYBQpr7PQZ1yuhPyl68TmL7_u42A&usqp=CAU',
-    trip_photos: [],
+      'data:image/jpeg;base64,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',
+    trip_photos: [
+      'data:image/jpeg;base64,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',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6LQXs0wSpRr3maUCeB8MjQSzxbrSndf-x4g&s',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYckCzMWRpQs2VnVoMSt8UTUhZIPsJo2wtA&s',
+    ],
     mo_ta:
       'Đà Lạt là thành phố nổi tiếng với khí hậu mát mẻ và cảnh quan đồi núi tuyệt đẹp.',
     thong_tin_chi_tiet:
@@ -165,6 +317,214 @@ export const listAddress = [
     longitude: 108.4388,
     rating: 4.5,
     latitude: 11.9404,
+    mon_an_dac_san: [
+      {
+        id: 1,
+        ten: 'Bánh ướt lòng gà',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2022/09/dac-san-da-lat-10.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '   Nhắc đến đặc sản Đà Lạt món ăn thì chắc chắn không thể bỏ qua bánh ướt lòng gà. Một tô bánh ướt lòng gà đúng chuẩn nhất định phải có: bánh ướt nóng hổi, lòng heo, thịt gà xé, trứng gà non, rau thơm, hành phi, hành tây. Tất cả được trộn đều cùng với thứ nước mắm chua ngọt thần thánh, tạo nên món ăn bắt mắt và ngon miệng.  ',
+        goiyDiaDiem:
+          'Bánh ướt lòng gà Thảo: B6 - 12A Triệu Việt Vương, Phường 4, TP. Đà Lạt',
+      },
+      {
+        id: 2,
+        ten: 'Bánh mì xíu mại ',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2022/09/dac-san-da-lat-8-1024x683.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '   Sự kết hợp giữa bánh mì giòn rụm cùng bát xíu mại đậm đà, thơm béo mang đến một món ăn thơm ngon khó cưỡng. Nước dùng xíu mại được hầm từ xương heo nên có vị ngọt thanh, viên xíu mại to tròn, được tẩm ướp vừa miệng. Nếu muốn kích thích vị giác, bạn có thể thêm chút sa tế cay cay vào bát nước dùng trước khi thưởng thức.',
+        goiyDiaDiem: 'Bánh mì xíu mại Cô Sương: số 14 Áp Ánh Sáng, TP. Đà Lạt',
+      },
+      {
+        id: 3,
+        ten: 'Bánh căn',
+        anh: 'https://statics.vinpearl.com/dac-san-da-lat-3_1687830846.jpg',
+        mota: '   Đến xứ ngàn hoa, bạn có thể tìm thấy quán bánh căn ở bất cứ ngõ ngách, con phố nào. Món ăn đặc sản Đà Lạt này được nhiều người yêu thích nhờ hương vị thơm ngon, hấp dẫn. Bánh căn nóng hổi, giòn giòn, kèm nước sốt xíu mại thơm ngậy đủ “đánh gục” bất cứ thực khách khó tính nào. ',
+        goiyDiaDiem:
+          'Bánh căn A Cát Đà Lạt: H54 - 55 Nguyễn Thị Nghĩa, Phường 2, TP. Đà Lạt',
+      },
+      {
+        id: 4,
+        ten: 'Lẩu gà lá é',
+        anh: 'https://statics.vinpearl.com/dac-san-da-lat-4_1687830833.jpg',
+        mota: '   Đứng đầu trong danh sách các món lẩu đặc sản Đà Lạt chắc chắn phải là lẩu gà lá é. Thịt gà mềm ngọt, lá é nhúng nước lẩu nóng làm dậy vị the the, bùi bùi, ăn cùng măng củ giòn, nấm tươi ngọt đủ làm thực khách “xiêu lòng”. Nước lẩu gà lá é có vị ngọt thanh, dậy mùi thơm đặc trưng của lá é, quyện chút cay cay của sả, cực kỳ thích hợp với tiết trời se lạnh của Đà Lạt. ',
+        goiyDiaDiem:
+          'Lẩu gà lá é Tao Ngộ: 28B Hải Thượng, Phường 6, TP. Đà Lạt',
+      },
+      {
+        id: 5,
+        ten: 'Lẩu bò',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2022/09/dac-san-da-lat-9.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '   Thêm một món lẩu đặc sản của Đà Lạt mà thực khách không thể bỏ qua là lẩu bò. Nước dùng lẩu được ninh từ xương bò với vị ngọt thanh cùng màu vàng đặc trưng. Topping ăn kèm gồm bắp bò, nạm bò, gân bò, đuôi bò… cùng nhiều loại rau sống tươi ngon.\nĐiểm nhấn của lẩu bò Đà Lạt nằm ở phần nước chấm chao vô cùng lạ miệng. Nồi lẩu đầy đặn, thịt bò mềm ngọt, thái miếng vừa ăn, tự tin có thể làm “xiêu lòng” ngay cả những vị khách khó tính nhất. ',
+        goiyDiaDiem:
+          'Lẩu bò Ba Toa Quán Gỗ: 29/1 Hoàng Diệu, Phường 5, TP. Đà Lạt',
+      },
+      {
+        id: 6,
+        ten: 'Lẩu cá tầm',
+        anh: 'https://statics.vinpearl.com/dac-san-da-lat-6_1687830808.jpg',
+        mota: '    Sức hấp dẫn của món lẩu này nằm ở phần nước dùng chua chua, ngọt ngọt, cay cay, hòa quyện với thịt cá tầm thơm ngon, dai dai vô cùng hấp dẫn.\nLẩu cá tầm đúng chuẩn phải được ăn kèm với bún tươi, rau nhút, nấm kim châm, rau muống bào sợi, hoa chuối. Giữa tiết trời se lạnh của Đà Lạt, được húp miếng nước lẩu nóng hổi, gắp miếng cá tầm trắng thơm rồi nhúng thật đẫm vào bát nước chấm thần thánh thì còn gì hạnh phúc hơn. ',
+        goiyDiaDiem:
+          'Lẩu cá tầm Ngư Sơn - đặc sản Đà Lạt: 33/15 Phan Đình Phùng, Phường 1 và 58 Hai Bà Trưng, Phường 6, TP. Đà Lạt',
+      },
+      {
+        id: 7,
+        ten: 'Gà nướng sốt tiêu xanh',
+        anh: 'https://statics.vinpearl.com/dac-san-da-lat-8_1687830772.jpg',
+        mota: '    Gà nướng sốt tiêu xanh là đặc sản Đà Lạt đang “làm mưa làm gió” và được nhiều tín đồ ẩm thực “săn lùng”. Gà được nướng mềm trong từng thớ thịt, lớp da bên ngoài vàng ươm vô cùng bắt mắt. Hòa quyện cùng thịt gà là nước sốt tiêu xanh đậm đà, cay the nhẹ kích thích vị giác vô cùng. ',
+        goiyDiaDiem:
+          'Tiệm nướng Ú Nu (TukTuk): số 39 đường Trần Đại Nghĩa, Phường 8, TP. Đà Lạt',
+      },
+      {
+        id: 12,
+        ten: 'Nem nướng Đà Lạt',
+        anh: 'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1686824856/cc4beva7xjjnqctqe3dy.webp',
+        mota: '   Nem nướng là cái tên nổi bật trong danh sách những món ăn Đà Lạt phải thử khi đi du lịch. Điều đặc biệt làm nên thương hiệu của món này chính là nước chấm được pha chế theo cách riêng. Nem được làm từ nguyên liệu chính là thịt heo ở phần nạc vai, ít mỡ và nướng trên bếp than hồng. Nghe thì đơn giản nhưng đối với người sành ăn, món đặc sản Đà Lạt này nhất định phải có “bí kíp” riêng thì mới tạo được hương vị đặc sắc đến vậy.',
+        goiyDiaDiem: 'Quán Bà Nghĩa: 45 Bùi Thị Xuân, phường 2',
+      },
+      {
+        id: 13,
+        ten: 'Đồ nướng Đà Lạt',
+        anh: 'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1686824956/j7he2zwqbv7a8pxwk2sq.webp',
+        mota: '   Đồ nướng là một trong những điều lôi cuốn khách du lịch khi nhắc đến ẩm thực Đà Lạt. Cùng quây quần sưởi ấm bên bếp than, nướng từng que thịt xiên và trò chuyện với đám bạn thân thì còn gì hạnh phúc bằng? Bạn có thể chọn nhiều loại thịt nướng đa dạng, ví dụ như gà, heo, bò, hải sản... tuỳ ý thích. Một số quán còn bán đồ nướng Hàn Quốc ngon xuất sắc rất đáng để ghé qua.',
+        goiyDiaDiem:
+          '\n.  - Quán nướng Chu: 3 Phạm Ngũ Lão, phường 3\n.  - Tiệm nướng Thương Một Xíu: 37A Trần Khánh Dư\n.  - Tiệm nướng Mùa Thu: 59 hẻm Đống Đa',
+      },
+      {
+        id: 11,
+        ten: 'Ốc nhồi thịt',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2022/09/dac-san-da-lat-2.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '   Một trong những đặc sản Đà Lạt mà bạn không được bỏ lỡ là món ốc bươu nhồi thịt thần thánh. Sự kết hợp giữa vị ngọt của thịt và nước ốc trộn với thịt nạc băm nhuyễn, cùng hương thơm của sả,... tất cả được hòa quyện tạo ra một món ăn sẽ gây nghiện cho bạn.',
+        goiyDiaDiem:
+          '33 Hai Bà Trưng, Phường 6, Thành phố Đà Lạt, Lâm Đồng ,thời gian mở cửa: 10:00 – 21:00',
+      },
+      {
+        id: 8,
+        ten: 'Bánh tráng nướng',
+        anh: 'https://statics.vinpearl.com/dac-san-da-lat-10_1687830744.jpg',
+        mota: '    Đứng đầu danh sách các món ăn vặt đặc sản Đà Lạt chắc chắn phải là bánh tráng nướng. Bánh tráng được nướng chín thơm lừng trên bếp than hồng đỏ rực. Vỏ bánh giòn rụm, cắn vào kêu “rôm rốp”, kết hợp cùng nhiều topping hấp dẫn như: xúc xích, chà bông mặn mặn, trứng gà béo ngậy, thêm chút tương ớt cay cay. Tất cả hòa quyện tạo nên món bánh tráng nướng Đà Lạt trứ danh mà khó nơi nào có được. ',
+        goiyDiaDiem:
+          'Bánh tráng nướng Bà Khùng: 61 Nguyễn Văn Trỗi, TP. Đà Lạt',
+      },
+      {
+        id: 9,
+        ten: 'Kem bơ',
+        anh: 'https://statics.vinpearl.com/dac-san-da-lat-11_1687830731.jpg',
+        mota: '    Kem bơ béo ngậy là món ăn vặt được số đông du khách đến Đà Lạt tìm kiếm để thưởng thức. Đặc biệt, trời càng lạnh thì ăn kem lại càng thích. Món ăn đặc sản Đà Lạt ngon “quên lối về” này được chế biến từ loại bơ sáp béo bùi, hòa cùng sữa đặc ngọt lịm.',
+        goiyDiaDiem: 'Quán Chạm: 27 Nguyễn Trãi, Phường 9, TP. Đà Lạt',
+      },
+      {
+        id: 10,
+        ten: 'Sữa đậu nành',
+        anh: 'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1686824936/qmxqjxvki5pdx4huulud.webp',
+        mota: '    Đêm ở xứ ngàn hoa, bạn có thể dễ dàng tìm thấy những gánh sữa đậu nành nóng hổi ở các con phố hoặc chợ đêm. Thức uống mộc mạc nhưng nhâm nhi ở xứ ngàn hoa lại trở nên thơm ngon đến lạ.',
+        goiyDiaDiem: 'Sữa đậu nành Dung Béo: 2/2 Nguyễn Văn Cừ, TP. Đà Lạt',
+      },
+    ],
+    dia_diem_noi_tieng: [
+      {
+        id: '1_address',
+        ten: 'Quảng trường Lâm Viên',
+        anh: 'https://cdn-media.sforum.vn/storage/app/media/Van%20Pham/5/5v/danh-lam-thang-canh-da-lat-1.jpg',
+        mota: '    Quảng trường Lâm Viên là một trong các địa danh nổi tiếng ở Đà Lạt, nằm trên con đường Trần Quốc Toản. Ngoài diện tích rộng lớn khoảng 70.000m², nơi đây còn sở hữu tầm nhìn ra hồ Xuân Hương lãng mạn. Quảng trường được chia thành 4 khu vực, bao gồm khu vực sân trung tâm, nhà hát, công viên và khu thương mại dịch vụ.\nỞ đây còn có những công trình kiến trúc nổi tiếng, phác họa hình ảnh hoa atiso và hoa dã quỳ. Mô hình nụ hoa Atiso cao 15m làm bằng khung thép và những ô kính sắc màu là địa điểm thường xuyên xuất hiện trong các bức ảnh “triệu view” của các bạn trẻ. Ở phía bên trong có một quán cafe với không gian ấm cúng, mang đến cho bạn những trải nghiệm không thể nào quên khi ghé thăm nơi này.',
+        goiyDiaDiem: 'Trung tâm TP Đà Lạt',
+      },
+      {
+        id: '2_address',
+        ten: 'Đồi chè Cầu Đất',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-3.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Nằm cách trung tâm thành phố Đà Lạt khoảng 20km, đồi chè Cầu Đất là một trong những địa điểm du lịch nổi tiếng nhất nhì Lâm Đồng. Với khung cảnh xanh bát ngát đầy ấn tượng, nơi đây được nhiều bạn trẻ lựa chọn để “săn mây Đà Lạt” hoặc ngắm hoàng hôn tuyệt đẹp khi chiều tà.',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '3_address',
+        ten: 'Khu du lịch Hoa Sơn Điền Trang',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-4.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Hoa Sơn Điền Trang là một phong cảnh Đà Lạt nằm trong rừng thông bạt ngàn, quanh năm cỏ cây, hoa lá tỏa hương thơm ngát. Mỗi góc nhỏ ở đây đều hướng ra khung cảnh núi non đẹp như tranh vẽ. Tại đây còn có tiểu cảnh được xây dựng vô cùng tinh tế như trái tim tình yêu, bàn tay phật, trứng Nữ Oa,... Chúng góp phần tạo thêm vẻ đẹp cho cảnh quan, mà không làm mất đi vẻ đẹp hoang sơ và bầu không khí trong lành của nơi đây.',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '4_address',
+        ten: 'Thác Datanla',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-6.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Con thác này nằm ở giữa đèo Prenn, cách trung tâm thành phố Đà Lạt 10km. Địa điểm này mang đến cho du khách nhiều trải nghiệm thú vị như đu dây trên cao hay đường trượt mát băng rừng dài nhất Đông Nam Á. Vì nằm ở thượng nguồn nên lượng nước đổ về đây không quá lớn, dòng thác êm đềm, đem đến những phút giây vô cùng thư giãn. Nếu không thích những trò chơi mạo hiểm, du khách có thể lựa chọn những hoạt động nhẹ nhàng hơn như tắm thác, trekking, chèo thuyền kayak,...',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '5_address',
+        ten: 'Hồ Xuân Hương',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-7.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Hồ Xuân Hương không chỉ là phong cảnh Đà Lạt nổi tiếng mà còn là biểu tượng du lịch của thành phố. Khi đến hồ Xuân Hương, chắc chắn bạn sẽ choáng ngợp trước khung cảnh vô cùng nên thơ, với hàng thông mềm mại bao quanh hồ và in bóng xuống hồ nước. Nếu đến đây vào lúc hoàng hôn buông xuống, bạn sẽ thấy khung cảnh nơi đây cũng mang nét đượm buồn. Hình ảnh mặt trời đỏ rực từ từ khuất bóng sau rừng thông gợi cho chúng ta nhớ đến khung cảnh tuyệt đẹp được miêu tả trong những bài thơ cổ xưa.',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '6_address',
+        ten: 'Làng Cù Lần',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-8.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Trong khuôn viên của ngôi làng còn có những ngôi nhà đầy màu sắc và một vườn hoa đầy sắc màu. Khi đến đây, bạn có thể trải nghiệm các hoạt động ngoài trời như chèo thuyền trên hồ, thả diều, cưỡi ngựa, đi tour xe jeep quanh làng, bắt cá dưới suối hay giao lưu văn hóa cồng chiêng cùng người dân bản địa. Nếu bạn đang mong muốn tìm kiếm một địa điểm du lịch gần gũi với thiên nhiên và đậm chất văn hóa vùng miền thì khu du lịch Làng Cù Lần là lựa chọn lý tưởng dành cho bạn.',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '7_address',
+        ten: 'Tuyệt Tình Cốc',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-9.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Phong cảnh Đà Lạt này từng được nhiều bạn trẻ “săn đón” vì khung cảnh đẹp như tranh vẽ. Hồ nước trong xanh nằm giữa cốc, tựa như viên ngọc bích đang tỏa sáng lấp lánh giữa núi đá hoa cương. Đến đây, bạn có thể chụp ảnh check-in tại xích đu tổ chim, trái tim lạc trôi hoặc trải nghiệm tour xe jeep. Tuy nhiên, quãng đường di chuyển đến đây tương đối khó khăn nên không thích hợp đến thăm quan vào những ngày mưa.',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '8_address',
+        ten: 'Thung lũng tình yêu Đà Lạt',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-10.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Thung Lũng Tình Yêu không chỉ nổi tiếng bởi vẻ đẹp của cảnh quan mà còn thu hút khách du lịch với hệ thống tiện ích đồng bộ và khu vui chơi hấp dẫn. Nơi đây mang đến cho du khách những trải nghiệm thú vị tại đây như thăng bằng trên dây cáp, đạp vịt, dải lụa ước nguyện, giao lưu văn nghệ cồng chiêng,… Đặc biệt địa điểm này còn có rất nhiều tiểu cảnh, cây cảnh được tạo hình công phu như vạn lý trường thành, đấu trường La Mã, bàn cờ khổng lồ,…',
+        goiyDiaDiem: '',
+      },
+      {
+        id: '9_address',
+        ten: 'Đồi cỏ hồng',
+        anh: 'https://ik.imagekit.io/tvlk/blog/2023/01/phong-canh-da-lat-14.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2',
+        mota: '    Nếu du khách muốn ngắm nhìn màu trắng tinh khôi của cỏ tuyết thì phải ghé thăm phong cảnh Đà Lạt này từ rất sớm, khoảng trước 7h00 sáng. Sau đó, bạn có thể chứng kiến ​​toàn bộ quá trình “đổi màu” của cả đồi cỏ. Khi mặt trời lên cao và những ánh nắng ấm áp bắt đầu chiếu xuống mặt đất, các bông hoa đuôi chồn sẽ dần chuyển sang màu hồng nhạt, dịu dàng và thơ mộng. Lúc này, bạn sẽ được tận mắt chứng kiến đồi cỏ hồng rộng mênh mông theo đúng tên gọi của nó.',
+        goiyDiaDiem: '',
+      },
+    ],
+    leHoi: [
+      {
+        id: '1_lh',
+        ten: 'Lễ hội cồng chiêng Đà Lạt',
+        anh: 'https://sohagroup.vn/wp-content/uploads/2024/06/521-kon_tum-phuocsonkt@gmailcom-le_hoi_mung_lua_moi_sapo-1024x576.jpg',
+        mota: '   Lễ hội cồng chiêng Đà Lạt là một trong những sự kiện văn hóa đặc sắc thu hút du khách khi đến với thành phố ngàn hoa. Lễ hội tái hiện không gian văn hóa Tây Nguyên độc đáo. Những âm thanh cồng chiêng vang vọng, điệu múa uyển chuyển và những trang phục rực rỡ sắc màu.',
+        thoigian:
+          'Lễ hội thường được tổ chức vào các dịp lễ Tết hoặc theo mùa vụ thu hoạch của các dân tộc thiểu số.',
+        diaDiem:
+          'Lễ hội diễn ra tại nhiều địa điểm khác nhau ở Đà Lạt. Nhưng phổ biến nhất là tại:\n- Làng văn hóa các dân tộc K’Ho\n- Làng văn hóa các dân tộc thiểu số Lắk\n- Khu du lịch Langbiang.',
+      },
+      {
+        id: '2_lh',
+        ten: 'Festival Hoa Đà Lạt',
+        anh: 'https://sohagroup.vn/wp-content/uploads/2024/06/festival-hoa-da-lat-tat-tan-tat-ve-le-hoi-hoa-lon-nhat-tai-da-lat-06-1635691106-1024x576.jpeg',
+        mota: '   Lễ hội là dịp để du khách chiêm ngưỡng vẻ đẹp rực rỡ của muôn loài hoa. Đồng thời tham gia vào các hoạt động văn hóa đặc sắc của Tây Nguyên.',
+        thoigian: 'Lễ hội hoa Đà Lạt được tổ chức 2 năm một lần vào tháng 12.',
+        diaDiem:
+          'Du khách sẽ được đắm chìm trong không gian hoa rực rỡ tại các địa điểm chính như:\n- Đồi chè Cầu Đất: Khung cảnh đồi chè xanh mướt hòa quyện cùng sắc hoa rực rỡ.\n- Quảng trường Lâm Viên: Nơi tọa lạc của những tiểu cảnh hoa khổng lồ, lung linh huyền ảo về đêm.\n- Làng hoa Vạn Thành:  Khám phá quy trình trồng hoa, mua sắm hoa tươi và hòa mình vào không khí bình dị của làng hoa.\n- Vườn hoa Đà Lạt: Thiên đường hoa rực rỡ với muôn loài khoe sắc. Nơi du khách có thể thỏa sức chụp ảnh và lưu giữ khoảnh khắc đẹp.',
+      },
+      {
+        id: '3_lh',
+        ten: 'Lễ hội Trà Đà Lạt',
+        anh: 'https://sohagroup.vn/wp-content/uploads/2024/06/festival-hoa-da-lat-tat-tan-tat-ve-le-hoi-hoa-lon-nhat-tai-da-lat-06-1635691106-1024x576.jpeg',
+        mota: '   Lễ hội không chỉ tôn vinh những người trồng trà và văn hóa trà lâu đời của Đà Lạt mà còn là dịp để du khách trải nghiệm những hương vị trà độc đáo và hòa mình vào không khí náo nhiệt của thành phố.',
+        thoigian:
+          'Lễ hội Trà Đà Lạt thường được tổ chức vào tháng 2 hoặc tháng 3 hàng năm, kéo dài trong khoảng 3 – 4 ngày.',
+        diaDiem:
+          'Lễ hội thường diễn ra tại Vườn hoa và công viên Đà Lạt, tuy nhiên một số hoạt động cũng có thể được tổ chức tại các địa điểm khác như: Làng Cù Lần, Làng Biệt Đầm.',
+      },
+      {
+        id: '4_lh',
+        ten: 'Lễ hội cúng cơm mới Đà Lạt',
+        anh: 'https://sohagroup.vn/wp-content/uploads/2024/06/baodaknong.org_.vn-database-image-2017-11-03-_2640-vh-3.jpg',
+        mota: '   Lễ hội không chỉ tôn vinh những người trồng trà và văn hóa trà lâu đời của Đà Lạt mà còn là dịp để du khách trải nghiệm những hương vị trà độc đáo và hòa mình vào không khí náo nhiệt của thành phố.',
+        thoigian:
+          'Lễ hội cúng cơm mới thường được tổ chức vào cuối tháng 9 hoặc đầu tháng 10 hàng năm, sau khi người dân đã thu hoạch xong vụ lúa.',
+        diaDiem:
+          'Lễ hội thường diễn ra tại làng văn hóa các dân tộc thiểu số ở khu vực Làng Biệt Đầm hoặc Làng Cù Lần, thành phố Đà Lạt.',
+      },
+    ],
   },
   {
     id: 10,
@@ -391,11 +751,13 @@ export const listVideo = [
   {
     id: 3,
     ten: 'City',
-    uri: '',
+    uri: 'https://raw.githubusercontent.com/kartikeyvaish/React-Native-UI-Components/main/src/Reels/config/videos/samplePortrait.mp4',
+    scale: 0.75,
   },
   {
     id: 4,
     ten: 'Forest',
-    uri: '',
+    uri: 'https://raw.githubusercontent.com/kartikeyvaish/React-Native-UI-Components/main/src/Reels/config/videos/samplePortrait.mp4',
+    scale: 0.75,
   },
 ];

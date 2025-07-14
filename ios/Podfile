@@ -14,7 +14,6 @@ target 'TraverApp' do
   pod 'react-native-config', :path => '../node_modules/react-native-config/react-native-config.podspec'
 
   config = use_native_modules!
-  # use_react_native!(:path => config["reactNativePath"])
 
  use_react_native!(
    :path => config[:reactNativePath],

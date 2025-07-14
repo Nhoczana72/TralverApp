@@ -23,10 +23,12 @@ export const HomeLogic = () => {
   }, []);
   useEffect(() => {
     if (FlatListRef?.current) {
-      FlatListRef.current.scrollToIndex({
-        index: currentIndex,
-        animated: true,
-      });
+      try {
+        FlatListRef?.current?.scrollToIndex({
+          index: currentIndex,
+          animated: true,
+        });
+      } catch {}
     }
   }, [currentIndex]);
 

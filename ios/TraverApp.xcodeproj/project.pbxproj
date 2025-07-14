@@ -30,6 +30,7 @@
 		9A6530B72B22D41600B929C2 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A6530A42B22D41600B929C2 /* FontAwesome.ttf */; };
 		9A6530B82B22D41600B929C2 /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A6530A52B22D41600B929C2 /* FontAwesome6_Solid.ttf */; };
 		9A6530B92B22D41600B929C2 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A6530A62B22D41600B929C2 /* Entypo.ttf */; };
+		9A6DBA172E096DF2004F3338 /* FS-North-Land.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A6DBA162E096DF2004F3338 /* FS-North-Land.ttf */; };
 		9B95C73A3AAA4FABBEA76E66 /* GothicA1-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4A16CE6F7624127A740F2B1 /* GothicA1-Bold.ttf */; };
 		F1E730FA0771EF8DA502CD04 /* libPods-TraverApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 623638F6C2044D891C06A68D /* libPods-TraverApp.a */; };
 /* End PBXBuildFile section */
@@ -67,6 +68,7 @@
 		9A6530A42B22D41600B929C2 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		9A6530A52B22D41600B929C2 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Solid.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf"; sourceTree = "<group>"; };
 		9A6530A62B22D41600B929C2 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Entypo.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		9A6DBA162E096DF2004F3338 /* FS-North-Land.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "FS-North-Land.ttf"; path = "../src/assets/fonts/FS-North-Land.ttf"; sourceTree = "<group>"; };
 		A0E4430BDD747AAB96A7554B /* Pods-TraverApp.releasepro.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TraverApp.releasepro.xcconfig"; path = "Target Support Files/Pods-TraverApp/Pods-TraverApp.releasepro.xcconfig"; sourceTree = "<group>"; };
 		A4A16CE6F7624127A740F2B1 /* GothicA1-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-Bold.ttf"; path = "../src/assets/fonts/GothicA1-Bold.ttf"; sourceTree = "<group>"; };
 		B90A8C4448E4482BBA538988 /* Pods-TraverApp.debugdev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TraverApp.debugdev.xcconfig"; path = "Target Support Files/Pods-TraverApp/Pods-TraverApp.debugdev.xcconfig"; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				9A6DBA162E096DF2004F3338 /* FS-North-Land.ttf */,
 				9A6530932B22D3E300B929C2 /* Fonts */,
 				9A45C8322959476100F99B1C /* Config.xcconfig */,
 				13B07FAE1A68108700A75B9A /* TraverApp */,
@@ -271,6 +274,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A6DBA172E096DF2004F3338 /* FS-North-Land.ttf in Resources */,
 				9A6530AB2B22D41600B929C2 /* MaterialIcons.ttf in Resources */,
 				9A6530B92B22D41600B929C2 /* Entypo.ttf in Resources */,
 				9A6530B62B22D41600B929C2 /* Ionicons.ttf in Resources */,

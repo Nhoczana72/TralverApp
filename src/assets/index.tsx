@@ -10,3 +10,4 @@ export const getSource = (source: keyof typeof SOURCE) => {
 };
 
 export * from './svg';
+export * from './icons';

@@ -15,6 +15,9 @@ export interface IPlace {
   longitude: number;
   latitude: number;
   rating: number;
+  mon_an_dac_san: any;
+  dia_diem_noi_tieng: any;
+  leHoi: any;
 }
 export const PlaceDetailLogic = () => {
   const dispatch = useDispatch();
