@@ -46,7 +46,7 @@ export const IntroScreen: React.FC<any> = props => {
   };
   const fadeIn1 = {
     from: {
-      opacity: 0.1,
+      opacity: 0.5,
     },
     to: {
       opacity: 1,
@@ -98,6 +98,33 @@ export const IntroScreen: React.FC<any> = props => {
                 marginTop: hp(10),
                 alignItems: 'center',
               }}>
+              <TouchableOpacity
+                style={{
+                  backgroundColor: 'rgba(96, 95, 92, 0.4)',
+                  paddingVertical: hp(2),
+                  paddingHorizontal: wp(6),
+                  flexDirection: 'row',
+                  borderRadius: wp(10),
+                  alignItems: 'center',
+                }}
+                onPress={() => {
+                  if (staSttImg > 0) {
+                    setStaSttImg(staSttImg - 1);
+                  } else {
+                    navigate('SignUp');
+                  }
+                }}>
+                <Text
+                  style={{
+                    fontSize: wp(5),
+                    color: 'white',
+                    fontWeight: '700',
+                    marginRight: wp(2),
+                  }}>
+                  Back
+                </Text>
+                <Icon name="arrowleft" size={wp(5)} color={'white'} />
+              </TouchableOpacity>
               <View
                 style={{
                   backgroundColor: 'rgba(96, 95, 92, 0.4)',
