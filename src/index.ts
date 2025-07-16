@@ -1,5 +1,7 @@
 import React, {useEffect} from 'react';
 import {useSelector} from 'react-redux';
+import { Settings } from 'react-native-fbsdk-next';
+
 // import { configTranslation } from '~helper/translate';
 import {LanguageSelector} from '~modules/setting/settingStore';
 import Crash, {UserConfirmation} from 'appcenter-crashes';
@@ -29,6 +31,8 @@ export const AppLogic = () => {
   }, [language]);
 
   useEffect(() => {
+    Settings.initializeSDK();
+
     if (!__DEV__) {
       Crash.setEnabled(true).then(() => {
         Crash.notifyUserConfirmation(UserConfirmation.ALWAYS_SEND);

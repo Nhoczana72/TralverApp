@@ -41,7 +41,6 @@ const profileStore = createSlice({
       return {
         ...state,
         user: action.payload.user,
-        listPermissionCode: action.payload.listPermissionCode || [],
       };
     },
     updateProfile: (
@@ -104,6 +103,7 @@ interface IToken {
   token?: string;
   statusLogin?: boolean;
   listFavor?: string[];
+  user?: User|null;
 }
 
 export const TokenSelector: Selector<RootState, IToken> = state => {
@@ -111,6 +111,7 @@ export const TokenSelector: Selector<RootState, IToken> = state => {
     token: state.profileStore.token,
     statusLogin: state.profileStore.statusLogin,
     listFavor: state.profileStore.listFavoriteStore,
+    user: state.profileStore.user,
   };
 };
 

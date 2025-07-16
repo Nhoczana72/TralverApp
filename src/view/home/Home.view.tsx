@@ -24,9 +24,11 @@ import {Colors} from '~assets/color';
 import {navigate} from '~core/helper/navigate';
 import {listAddress, listCategory} from './datajson';
 import store from '~core/store';
-import profileStore from '~modules/authentication/profileStore';
+import profileStore, { TokenSelector } from '~modules/authentication/profileStore';
 import {ScreenFavor, ScreenReels} from './components';
 import {useAltaIntl} from '~core';
+import { getSource } from '~assets';
+import { useSelector } from 'react-redux';
 
 export const Home: React.FC<any> = props => {
   const {} = props;
@@ -43,13 +45,22 @@ export const Home: React.FC<any> = props => {
     translate,
     setStaScreen,
   } = HomeLogic();
+const  {user}=useSelector(TokenSelector)
 
   return (
     <View style={styles.container}>
       <ScrollView>
         {staScreen === 0 ? (
           <View style={{paddingVertical: hp(5), paddingLeft: wp(5)}}>
-            <View style={{flexDirection: 'row', marginTop: hp(1)}}>
+            <View style={{flexDirection:"row",width:wp(90),alignItems:"center",justifyContent:"space-between"}}>
+              <View style={{flexDirection: 'row',alignItems: 'center'}}>
+                <Image
+                  source={user?.imageURL? {uri: user?.imageURL} : getSource("LOGO")}
+                  style={{width: wp(7), height: wp(7),marginRight:wp(3),borderWidth:1,borderColor:"white",borderRadius:wp(10)}}
+                />
+                <Text style={styles.tx_title}>{user?.name||"Thiên"}</Text>
+              </View>
+              <View style={{flexDirection: 'row', marginTop: hp(1)}}>
               <SimpleLineIcons
                 name={'location-pin'}
                 color={'white'}
@@ -57,6 +68,8 @@ export const Home: React.FC<any> = props => {
               />
               <Text style={styles.tx_title}> Việt Nam</Text>
             </View>
+            </View>
+            
             <View style={styles.view_search}>
               <Icon name="search" size={wp(6)} color={'white'} />
               <TextInput

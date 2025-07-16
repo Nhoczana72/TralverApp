@@ -87,16 +87,16 @@
   <dict>
   <key>CFBundleURLSchemes</key>
   <array>
-    <string>1066493068921942</string>
+    <string>fb724473513878304</string>
   </array>
   </dict>
 </array>
 <key>FacebookAppID</key>
-<string>1066493068921942</string>
+<string>724473513878304</string>
 <key>FacebookClientToken</key>
 <string>5aeb5773cd5bde8fc0a37b94992ce9fa</string>
 <key>FacebookDisplayName</key>
-<string>App Travel by Thien</string>
+<string>App Travel by Thien Mac</string>
 
 <key>LSApplicationQueriesSchemes</key>
 <array>
